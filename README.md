@@ -1,6 +1,6 @@
 <div align="center">
 
-![DevForumBanner|690x251](upload://hHKV2TgAaQXgYIzOrLCl8eLp7Ji.png)
+![7c173427ed72dd1afecd6ac2ee0dd184c6c13afc](https://github.com/user-attachments/assets/fc08fc81-87f4-4454-9fad-b38f06fc4ebe)
 
 ###### Disclaimer, this post is a work in progress! It might get some changes every once in a while!
 
@@ -18,7 +18,7 @@ Motor6D Toolbox is a ***free and open-source*** plugin designed and inspired to 
 
 # MOTORS
 
-![Banner1Gif|690x250, 100%](upload://qdB2rIETZ8oRKX5VMbzGQjS2S1a.gif)
+![Banner1Gif](https://github.com/user-attachments/assets/97aeda82-d68a-4ef1-a6b2-185a53e38a3d)
 
 ---
 
@@ -28,7 +28,7 @@ Your Motor6D should be automatically selected afterwards, and displayed with a h
 
 # ADVANCED OPTIONS
 
-![9|690x251](upload://uCLEPyndMT2XJK8WnqETtRDViMP.png)
+![d6a31e59c27bb991c8622040f075dd1d53ccd6e3](https://github.com/user-attachments/assets/edf94147-8d33-4917-804e-9abf3b70783c)
 
 Advanced options offer a **wide variety** of QOL features, along side other miscellaneous functions to aid you in working with your Motors!
 
@@ -52,7 +52,7 @@ Advanced options offer a **wide variety** of QOL features, along side other misc
 
 # WELDING
 
-![Banner2|690x250](upload://cUPeGsali6jRStRj05SNfVIO2NR.gif)
+![5a868be64f224407b690686e2082986b2a631d6b](https://github.com/user-attachments/assets/08fd48c9-c69b-46c6-9cee-af182e732434)
 
 ---
 
@@ -63,7 +63,7 @@ Just like motors, you are able to name the welds, which in this case, will follo
 # SMART WELDING
 #### *WARNING, THIS FEATURE IS EXPERIMENTAL AND HAS A CHANCE TO BREAK!*
 
-![10|690x251](upload://ssLmACySJ2QpfKjbj5jMPwlZjIA.png)
+![c77d401a46945ca8164ad14331ba7b74ecf1a440](https://github.com/user-attachments/assets/43750b1c-2705-4923-869c-db30ce4282f4)
 
 Smart weld is a feature designed to help with welding multiple models at once!
 
