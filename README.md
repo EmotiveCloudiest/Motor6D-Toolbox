@@ -8,7 +8,7 @@
 
 # OVERVIEW
 
-Motor6D Toolbox is a ***free and open-source*** plugin designed and inspired to be a free alternative to [Nexus Motor6D Creator](https://create.roblox.com/store/asset/17136227485/Nexus-Motor6D-Creator) by @TheNexusAvenger
+Motor6D Toolbox is a ***free and open-source*** plugin inspired by the [Nexus Motor6D Creator](https://create.roblox.com/store/asset/17136227485/Nexus-Motor6D-Creator) plugin by @TheNexusAvenger
 
 ##### This plugin is built using [RBLXGUI](https://devforum.roblox.com/t/rblxgui-v104-studio-like-gui-library-that-emulates-the-standard-studio-look-and-feel/2891503) for it's UI, and [Ceive ImGizmo](https://devforum.roblox.com/t/ceive-imgizmo-a-debug-gizmo-library/2470790) for it's gizmos!
 
